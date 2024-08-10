@@ -1,4 +1,4 @@
-import  styles from '@/styles/home.module.css'
+import  styles from '../styles/Sponsor.module.css'
 import MenuInvitados     from "@/pages/MenuInvitados";
 const Sponsor = () => {
     return (
